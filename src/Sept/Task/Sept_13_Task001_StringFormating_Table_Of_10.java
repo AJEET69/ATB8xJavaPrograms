@@ -1,6 +1,6 @@
-package Sept.ex_13_09_2024;
+package Sept.Task;
 
-public class Task001_StringFormating_Table_Of_10 {
+public class Sept_13_Task001_StringFormating_Table_Of_10 {
 
     public static void main(String[] args) {
 

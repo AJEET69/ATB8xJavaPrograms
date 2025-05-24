@@ -1,6 +1,6 @@
-package Sept.ex_13_09_2024;
+package Sept.Task;
 
-public class Task002_small_calculator {
+public class Sept_13_Task002_small_calculator {
 
     public static void main(String[] args) {
         double a = 34;
