@@ -1,6 +1,6 @@
 package Sept.ex_20_09_2024;
 
-public class Lab0067 {
+public class Lab067 {
     public static void main(String[] args) {
          //  Grade Calculator
         // Write a program that calculates and displays
