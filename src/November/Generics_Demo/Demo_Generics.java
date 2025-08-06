@@ -1,0 +1,17 @@
+package November.Generics_Demo;
+
+public class Demo_Generics {
+
+    public static <T> void temp(T a) {
+        System.out.println(a);
+
+    }
+
+    public static void main(String[] args) {
+        temp(23);
+        temp(34.5);
+        temp('a');
+        temp("Ajeet");
+    }
+
+}
