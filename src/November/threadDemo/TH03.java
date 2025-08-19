@@ -3,7 +3,7 @@ package November.threadDemo;
 public class TH03 {
     public static void main(String[] args) {
 
-        ThreadGroup threadGroup = new ThreadGroup( "Workers");
+        ThreadGroup threadGroup = new ThreadGroup("Workers");
 
         WorkerTh03 w1 = new WorkerTh03(threadGroup,"W1");
         w1.start();
